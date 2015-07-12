@@ -1,1 +1,12 @@
+body {
+	background: grey;
+}
 
+p {
+	font-family:arial;
+}
+
+h1 {
+	color:pink;
+	text-align:center;
+}
